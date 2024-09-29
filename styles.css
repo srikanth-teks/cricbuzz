@@ -1,0 +1,94 @@
+body{
+    background-color: gainsboro;
+}
+
+header{
+    background-color: rgb(20, 159, 129);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 22px;
+    color: white;
+}
+
+button{
+    background-color: white;
+    border-radius: 30px;
+    width: 140px; height: 40px;
+    font-size: 16px;color: grey;
+}
+#card1{
+    vertical-align: top;
+    width: 320px;
+    height: 200px;
+    background-color:rgb(187, 182, 182);
+    border-radius: 10px;
+    display:inline-block
+    
+   
+}
+#part1{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+background-color: white;
+height: 140px;
+padding: 10px;
+font-size: 15px;
+}
+#od{
+    background-color: rgb(68, 68, 248);
+    width: 40px;color: white;height: 20px;
+    font-size: 8px;
+    border-radius: 8px;
+}
+#last{
+    color: red;
+}
+#card2{
+    vertical-align: top;
+    width: 320px;
+    height: 200px;
+    background-color: rgb(180, 174, 174);
+    border-radius: 10px;
+    display:inline-block
+    
+}
+#test{
+    background-color: rgb(248, 68, 74);
+    width: 40px;color: white;height: 20px;
+    font-size: 8px;
+    border-radius: 8px;
+}
+    #part2{
+       font-size: 15px; 
+        align-items: center;
+        float: right;
+        color: rgb(83, 81, 81);
+        padding-bottom: 20px;
+        padding-right: 5px;
+    
+    }
+    #card3{
+        vertical-align: top;
+        width: 310px;
+        height: 200px;
+        background-color: rgb(180, 174, 174);
+        border-radius: 10px;
+        display:inline-block
+
+    }
+    #last1{
+        color: rgb(58, 58, 252);
+    }
+    #card4{
+        vertical-align: top;
+        width: 290px;
+        height: 200px;
+        background-color: rgb(180, 174, 174);
+        border-radius: 10px;
+        display:inline-block
+
+    }
+    #last2{
+        color: brown;
+    }
